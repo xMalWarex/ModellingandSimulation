@@ -10,3 +10,7 @@
 | Ikmal Haikal Bin Mohd Rosli | 20000427  |
 | Ahmad Haikal Bin Mohd Khairi  | 20000591  |
 | Muhammad Arif Hakimi Bin Ismadi | 20000575  |
+
+### Classes: customer  CustomerQueue  Program
+### Method: Photocopy  Push Customer  Pop Customer  Empty  NumCustomers
+### Variables: lambda  avgServiceTime  MaxQueueSize  timeCustomerArrival  printserverFree  printServiceTime  totalCustomersArrived  totalCustomersServed
